@@ -1,3 +1,5 @@
+<img src="README_images/Demo_Gif.gif" width="50%">
+
 # SafeSight | Reality Hack 2026
 
 AR-powered personal safety for college campuses built on Snap Spectacles. SafeSight creates a shared, real-time safety network that keeps you present and aware without requiring you to look at your phone.
